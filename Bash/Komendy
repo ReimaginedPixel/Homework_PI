@@ -23,6 +23,15 @@ zip – Tworzy archiwum ZIP. Przykład: zip archiwum.zip plik1.txt plik2.txt two
 
 unzip – Rozpakowuje pliki w formacie ZIP. Przykład: unzip archiwum.zip rozpakowuje plik archiwum.zip.
 
+echo – Używane do wyświetlania tekstu lub wartości zmiennych na ekranie (stdout).
+
+read – Służy do wczytywania danych wejściowych od użytkownika lub z pliku. Zwykle jest używane w skryptach bash do interakcji z użytkownikiem.
+
+while – Jest to struktura sterująca, która wykonuje blok kodu dopóki warunek jest prawdziwy. W przypadku, gdy warunek przestaje być spełniony, pętla przestaje się wykonywać.
+
+Opis:
+done – Oznacza koniec pętli while, for lub innej struktury pętli. Po wykonaniu wszystkich instrukcji wewnątrz pętli, kontrola wraca do warunku sprawdzającego, czy pętla ma być kontynuowa
+
 
 
 Ścieżki:
