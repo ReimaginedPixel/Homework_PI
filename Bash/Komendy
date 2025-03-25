@@ -1,0 +1,33 @@
+Komendy:
+ls – Wyświetla listę plików i katalogów w bieżącym katalogu.
+
+ls -l – Wyświetla szczegółową listę plików i katalogów, w tym informacje o uprawnieniach, właścicielu, rozmiarze itp.
+
+cd – Zmienia katalog roboczy na wskazany katalog. Przykład: cd /home/user przenosi do katalogu /home/user.
+
+xed – Uruchamia edytor tekstu xed, który jest domyślnym edytorem w niektórych dystrybucjach Linux.
+
+chmod – Zmienia uprawnienia plików lub katalogów. Przykład: chmod 755 plik.txt ustawia odpowiednie uprawnienia.
+
+cp – Kopiuje pliki lub katalogi. Przykład: cp plik.txt /home/user skopiuje plik do katalogu /home/user.
+
+rm – Usuwa plik lub katalog. Przykład: rm plik.txt usuwa plik plik.txt.
+
+rmdir – Usuwa pusty katalog. Przykład: rmdir katalog usunie pusty katalog.
+
+mkdir – Tworzy nowy katalog. Przykład: mkdir nowy_katalog tworzy katalog o nazwie nowy_katalog.
+
+mv – Przenosi plik lub katalog lub zmienia jego nazwę. Przykład: mv plik.txt nowy_plik.txt zmienia nazwę pliku na nowy_plik.txt.
+
+zip – Tworzy archiwum ZIP. Przykład: zip archiwum.zip plik1.txt plik2.txt tworzy archiwum archiwum.zip zawierające plik1.txt i plik2.txt.
+
+unzip – Rozpakowuje pliki w formacie ZIP. Przykład: unzip archiwum.zip rozpakowuje plik archiwum.zip.
+
+
+
+Ścieżki:
+/ – Katalog główny systemu Linux. Jest to korzeń, z którego zaczynają się wszystkie inne katalogi w systemie.
+
+.. – Oznacza katalog nadrzędny (o poziom wyżej w strukturze katalogów).
+
+
