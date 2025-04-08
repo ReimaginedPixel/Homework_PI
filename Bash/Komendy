@@ -29,6 +29,8 @@ read – Służy do wczytywania danych wejściowych od użytkownika lub z pliku.
 
 while – Jest to struktura sterująca, która wykonuje blok kodu dopóki warunek jest prawdziwy. W przypadku, gdy warunek przestaje być spełniony, pętla przestaje się wykonywać.
 
+cat – jest używana do wyświetlania zawartości plików na standardowy wyjściowy strumień (stdout). Może być również używana do łączenia plików oraz tworzenia nowych plików.
+
 Opis:
 done – Oznacza koniec pętli while, for lub innej struktury pętli. Po wykonaniu wszystkich instrukcji wewnątrz pętli, kontrola wraca do warunku sprawdzającego, czy pętla ma być kontynuowa
 
