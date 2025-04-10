@@ -3,6 +3,8 @@ ls – Wyświetla listę plików i katalogów w bieżącym katalogu.
 
 ls -l – Wyświetla szczegółową listę plików i katalogów, w tym informacje o uprawnieniach, właścicielu, rozmiarze itp.
 
+ls >> ls0.txt - Wynik daje do pliku ls0.txt
+
 cd – Zmienia katalog roboczy na wskazany katalog. Przykład: cd /home/user przenosi do katalogu /home/user.
 
 xed – Uruchamia edytor tekstu xed, który jest domyślnym edytorem w niektórych dystrybucjach Linux.
